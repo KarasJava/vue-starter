@@ -32,6 +32,7 @@
             logMeOut() {
                 this.authenticatedUsername = '';
             }
+            
         }
     }
 </script>
