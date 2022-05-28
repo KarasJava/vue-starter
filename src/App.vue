@@ -17,6 +17,7 @@
 </template>
 
 <script>
+    import "milligram";
     export default {
         data() {
             return {
@@ -32,7 +33,7 @@
             logMeOut() {
                 this.authenticatedUsername = '';
             }
-            
+
         }
     }
 </script>
